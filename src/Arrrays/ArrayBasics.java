@@ -18,6 +18,7 @@ public class ArrayBasics {
             if (arr[i] < min) min = arr[i];
         }
 
+        //print 
         System.out.println("\nMaximum Element: " + max);
         System.out.println("\nMinimum Element : "+ min);
 
